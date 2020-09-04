@@ -16,3 +16,5 @@ Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png
 
 [Outcomes vs goals](docs/Outcomes_vs_Goals.png)
 
+![](resources/Outcomes_vs_Goals.png
+
