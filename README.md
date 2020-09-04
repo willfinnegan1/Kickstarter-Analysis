@@ -9,12 +9,9 @@ One of the first challenges faced was to convert the dates into a usable format,
 
 #Results 
 
-![Outcomes vs Goals](kickstarter-analysis/Outcomes_vs_goals.png
 
 
-Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png
+![](Resources/Outcomes_vs_Goals.png)
 
-[Outcomes vs goals](docs/Outcomes_vs_Goals.png)
 
-![](resources/Outcomes_vs_Goals.png
-
+![](Resources/Theater_Outcomes_vs_Launch.png)
