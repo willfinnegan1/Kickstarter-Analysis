@@ -10,14 +10,13 @@ One of the first challenges faced was to convert the dates into a usable format,
 #Results 
 
 After analyzing the data,i have drawn several conclusions. 
-By looking at Theater campaign outcomes vs launch date, i have determined that Louise will have the greatest chance at a succesful campaign by launching in the month of May, or close to the month of May, if possible. The data shows a success rate of 67% for campaigns starting in the month of May. That percentage drops as you move later into the year, reaching a low of 49% in December. 
+By looking at Theater campaign outcomes vs launch date - see Figure 1 below - i have determined that Louise will have the greatest chance at a succesful campaign by launching in the month of May, or close to the month of May, if possible. The data shows a success rate of 67% for campaigns starting in the month of May. That percentage drops as you move later into the year, reaching a low of 49% in December, shown in figure 2 below.
 
-
+Figure1:
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
+Figure 2:
 ![](Resources/Success_Rate_Month.png)
 
-
-
-
+Figure 3:
 ![](Resources/Outcomes_vs_Goals.png)
