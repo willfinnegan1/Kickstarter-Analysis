@@ -1,7 +1,7 @@
 # Kickstarter-Analysis
 Performing analysis on kickstarter data to uncover trends
 
-Author: Will Finnegan 
+Analysis by Will Finnegan 
 
 ## Overview and Purpose
 The purpose of this analysis was to help Louise understand how Kickstarter campaigns have fared in relation to their launch dates and fundraising goals. To do this we started with raw data from Kickstarter that included data from a wide variety of campaigns, not just theater, going back to 2010. The data included descriptive blurbs for each campaign, campaign goals, amount pledged, number of backers, country, start and end dates, and category for each campaign. By manipulating and analyzing this data we can glean insight to help Louise make informed decisions to improve the chances of successfully funding her campaign. 
