@@ -13,8 +13,8 @@ After analyzing the data,i have drawn several conclusions.
 By looking at Theater campaign outcomes vs launch date, i have determined that Louise will have the greatest chance at a succesful campaign by launching in the month of May, or close to the month of May, if possible. The data shows a success rate of 67% for campaigns starting in the month of May. That percentage drops as you move later into the year, reaching a low of 49% in December. 
 
 
-![](Resources/Outcomes_vs_Goals.png)
-
-
-
 ![](Resources/Theater_Outcomes_vs_Launch.png)
+
+
+
+![](Resources/Outcomes_vs_Goals.png)
