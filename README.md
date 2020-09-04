@@ -14,6 +14,8 @@ By looking at Theater campaign outcomes vs launch date, i have determined that L
 
 
 ![](Resources/Theater_Outcomes_vs_Launch.png)
+![](Resources/Success_rate_month.png)
+
 
 
 
