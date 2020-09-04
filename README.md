@@ -12,7 +12,7 @@ One of the first challenges faced was to convert the dates into a usable format,
 ![Outcomes vs Goals](kickstarter-analysis/Outcomes_vs_goals.png
 
 
-Kickstarter-Analysis/resources/Outcomes_vs_goals.png
+Kickstarter-Analysis/resources/Outcomes_vs_Goals.png
 
 
 
